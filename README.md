@@ -6,3 +6,5 @@ A kiválasztott könyvtáron belül létrehoz a program egy könyvtárat, amelyn
 Ha nem létező karakterszámot adsz meg, vagy például szöveget írsz a karakterszám helyére és utána rányomsz az "Oké, mehet" gombra, akkor nyilván nem történik semmi, nem fog letöltődni semmi.
 
 Amikor elindítod a programot kicsit várni kell, amíg megjelenik az ablak, vagy legalábbis nálam várni kellett :-) de nem kell aggódni egy pár másodperc után elindul az. Elvileg... :-)
+
+Nyilván ez csak Windows alatt működik, ha neked például Linuxod van vagy MacBookos arc vagy, akkor max. azt tudod csinálni, hogy a Python scriptet futtatod direktben, ha elég hárdkór vagy hozzá, hogy telepítsél magadnak egy Pythont. Vagy például vehetsz nekem egy MacBookot és akkor csinálok belőle MacBookos verziót is.
